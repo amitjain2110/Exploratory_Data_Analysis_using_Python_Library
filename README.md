@@ -6,6 +6,7 @@
 2. pandas_profiling
 3. sweetviz
 4. pandas_visual_analysis
+5. AutoViz
 
 # Download data from here-
 
